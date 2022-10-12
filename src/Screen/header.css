@@ -1,0 +1,36 @@
+.header_box {
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #303030;
+}
+
+.header_container {
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 120px !important;
+  margin-left: 0% !important;
+  width: 100% !important;
+  margin-right: 0px !important;
+  max-width: 100% !important;
+  padding-right: 60px !important;
+}
+.main_button {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  color: white !important;
+  font-size: 2.5em !important;
+  font-family: cursive !important;
+  font-weight: bold !important;
+}
+
+.navigation_button {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  color: white !important;
+  font-size: 1.1em !important;
+  font-family: cursive !important;
+  font-weight: bold !important;
+  border-color: white !important;
+}
