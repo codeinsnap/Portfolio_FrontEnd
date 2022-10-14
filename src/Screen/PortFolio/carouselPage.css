@@ -1,0 +1,12 @@
+.image_carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel_Main{
+    /* width: 70%; */
+}
+
+button{
+    display: none;
+}

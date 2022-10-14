@@ -1,0 +1,52 @@
+.main_box {
+  color: white !important;
+  margin-top: 4%;
+}
+.title_box {
+  display: block;
+  text-align: center;
+  height: 11vh;
+  margin-top: 1%;
+}
+.title_show {
+  font-size: 3em;
+  font-family: cursive;
+  color: yellow;
+}
+
+.title_hide {
+  font-size: 7em;
+  position: absolute;
+  opacity: 0.07;
+  font-family: cursive;
+  margin: -3% 0 0 -21%;
+}
+
+.aboutme_main_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutme_container {
+  width: 40%;
+  display: flex;
+}
+.left_box {
+  margin-right: 3%;
+  width: 50%;
+}
+.right_box {
+  width: 50%;
+}
+
+.left_Img {
+  width: 100%;
+}
+.table_container {
+  background-color: black !important;
+}
+.table_cell {
+  border-bottom: none !important;
+  color: white !important;
+}
